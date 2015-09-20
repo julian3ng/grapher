@@ -138,8 +138,7 @@ if __name__ == '__main__':
         for x in range(-ox, t):
             #clear out the coords in the upper left
             for i in range(0, 30):
-                for j in range(0, 2):
-                    scr.addch(j, i, ' ')
+                scr.addch(0, i, ' ')
             try:
                 y = eval(code)
                 plot_point(y, x, scr, point, color, fill=args.fill)
