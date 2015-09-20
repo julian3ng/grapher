@@ -3,7 +3,12 @@ Grapher
 
 A CLI graph display.
 
-Usage: ./grapher <function> [-p <char>] [-c <int>] [-t <float>] [-f]
+BEFORE USE: run  `export TERM=xterm-256color`
+
+Usage:
+    `python grapher <function> [-p <char>] [-c <int>] [-t <float>] [-f]`
+
+
 
 -p <char>  to choose character used
 -c <int>   to choose color (16-255)
