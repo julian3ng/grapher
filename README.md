@@ -19,4 +19,4 @@ Usage:
 -f         to fill the function
 
 ![sin function](https://raw.github.com/julian3ng/grapher/master/sin.png)
-Graph of "10*sin(0.1*x)"
+Graph of "10\*sin(0.1\*x)"
