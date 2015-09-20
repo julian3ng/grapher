@@ -1,4 +1,12 @@
 #!/usr/bin/env python
+
+#####################################################
+# Author: Julian Eng                                #
+# School: Cornell University College of Engineering #
+# NetID: jje59                                      #
+# Date: 9/20/15                                     #
+#####################################################
+
 import curses
 from math import *
 import time
