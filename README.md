@@ -11,6 +11,9 @@ Usage:
 
 
 -p <char>  to choose character used
+
 -c <int>   to choose color (16-255)
+
 -t <float> to choose drawing speed (smaller is faster)
+
 -f         to fill the function
